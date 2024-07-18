@@ -54,6 +54,11 @@ For more flexibilty and control, you can setup[ OHIF standalone](ohif_setup.md) 
 # Server Setup
 To setup a server for remote access, follow the steps in the [server setup](server.md) section.
 
+# Integrating additional models
+To integrate additional pre-trained models, follow the steps for each model type:
+- [MONAI based models](monai_model.md)
+- [Total segmentator model](TotalSegmentator_model.md)
+- [nnUNet based models](nnunet_model.md)
 # FAQ and Known Bugs
 If you are facing any issues with the installation or setup, please refer to the [FAQ](faq.md) section.
 # Licenses
